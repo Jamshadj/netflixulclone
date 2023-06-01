@@ -17,6 +17,7 @@ function App() {
       <Rowpost url={Horror} title="Horror" isSmall />
       <Rowpost url={action} title="Actions" isSmall />
       <Rowpost url={Romance} title="Romance" isSmall />
+      <Rowpost url={Romance} title="Romance" isSmall />
     </div>
   );
 }
